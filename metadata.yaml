@@ -1,0 +1,33 @@
+_repo: Waikna-b-Or-Adventures-on-the-Mosquito-Shore_74987
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Squier, E. G. (Ephraim George)
+    aliases:
+    - Squier, Ephraim George
+    - Squier, E. George (Ephraim George)
+    - Squier, Ephraim G. (Ephraim George)
+    birthdate: 1821
+    deathdate: 1888
+    gutenberg_agent_id: '45477'
+    url: http://www.gutenberg.org/2009/agents/45477
+description: ''
+gutenberg_issued: '2024-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74987'
+language: en
+pgterms:marc904: https://archive.org/details/waiknaoradventur00squi
+pgterms:marc905: 20220213111343squier
+pgterms:marc906: '1855'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bHarper & Brothers, $c1855.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Waikna : $b Or, Adventures on the Mosquito Shore'
+url: http://www.gutenberg.org/ebooks/74987
